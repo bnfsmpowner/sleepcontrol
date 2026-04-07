@@ -1,0 +1,19 @@
+players-needed: 1
+delay-seconds: 2
+
+messages:
+  sleep:
+    enabled: true
+    text: "§e%player% went to sleep §c[Cancel]"
+
+  countdown:
+    enabled: true
+    text: "§7Skipping night in %seconds% seconds..."
+
+  skipped:
+    enabled: true
+    text: "§aNight skipped!"
+
+  cancelled:
+    enabled: true
+    text: "§cSleep cancelled!"
