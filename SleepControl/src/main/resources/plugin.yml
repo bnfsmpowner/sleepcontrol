@@ -1,8 +1,0 @@
-name: SleepControl
-version: 1.0
-main: com.bnfsmp.sleepcontrol.SleepControl
-api-version: 1.21
-
-commands:
-  sleepcancel:
-    description: Cancel a player's sleep
